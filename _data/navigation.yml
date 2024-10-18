@@ -6,22 +6,26 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /my_publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Teaching"
+  #  url: /teaching/    
+  #  
+  #- title: "Portfolio"
+  #  url: /portfolio/
+  #      
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/An_Xu___CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
