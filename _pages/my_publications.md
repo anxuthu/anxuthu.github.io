@@ -16,6 +16,9 @@ Preprint
 
 [1] Yanyue Xie, Zhi Zhang, Ding Zhou, Cong Xie, Ziang Song, Xin Liu, Yanzhi Wang, Xue Lin, **An Xu<sup>+</sup>**. "[MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router](https://arxiv.org/abs/2410.12013)". *arxiv*.
 
+[2] Shuhua Yu, Ding Zhou, Cong Xie, **An Xu**, Zhi Zhang, Xin Liu, Soummya Kar. "[Distributed Sign Momentum with Local Steps for Training Transformers](https://arxiv.org/abs/2411.17866)". *arxiv*.
+
+
 Published
 ------
 

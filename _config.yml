@@ -25,10 +25,10 @@ author:
   name             : "Dr. An Xu"
   pronouns         : # example: "he/his"  
   bio              : "Working on LLM."
-  location         : "Bellevue, WA, U.S."
-  employer         : "TikTok"
+  location         : "Seattle, WA, U.S."
+  employer         : "Amazon.com"
   uri              : # URL
-  email            : "an.xu@tiktok.com" 
+  email            : "annnxu@amazon.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
