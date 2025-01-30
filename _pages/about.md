@@ -13,6 +13,8 @@ I'm currently an applied scientist at Amazon.com working on shopping LLM. I rece
 
 Feel free to reach out via email (annnxu [at] amazon [dot] com) for collaboration!
 
+We are hiring applied scientist interns on long context LLM.
+
 Research Interests
 ======
 * large language models: code generation, efficient fine-tuning and inference, sparse MoE LLM
